@@ -1,0 +1,7 @@
+#obj {
+width: 110px;
+height: 110px;
+background-color: rgb(192, 140, 240);
+position: absolute; /* sayfadan bağımsız olması için verdik hareket edebilmesi için*/
+border: none;
+}
